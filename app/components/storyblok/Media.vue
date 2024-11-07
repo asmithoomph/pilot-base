@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { MediaStoryblok } from "~/types/component-types-sb";
+import type { MediaStoryblok } from "~~/types/component-types-sb";
 
 const props = defineProps<{ blok: MediaStoryblok }>();
 

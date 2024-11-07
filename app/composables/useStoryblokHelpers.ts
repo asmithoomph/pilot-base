@@ -1,4 +1,4 @@
-import type { MultilinkStoryblok } from "~/types/component-types-sb";
+import type { MultilinkStoryblok } from "~~/types/component-types-sb";
 
 export const useStoryblokPreview = () => {
   const route = useRoute();

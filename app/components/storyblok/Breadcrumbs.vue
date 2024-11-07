@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { BreadcrumbsStoryblok } from "~/types/component-types-sb";
+import type { BreadcrumbsStoryblok } from "~~/types/component-types-sb";
 
 const props = defineProps<{ blok: BreadcrumbsStoryblok }>();
 

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { BackgroundStoryblok } from "~/types/component-types-sb";
+import type { BackgroundStoryblok } from "~~/types/component-types-sb";
 defineProps<{ blok: BackgroundStoryblok }>();
 </script>
 

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { AppButtonStoryblok } from "~/types/component-types-sb";
+import type { AppButtonStoryblok } from "~~/types/component-types-sb";
 import type { ButtonColor, ButtonSize, ButtonVariant } from "#ui/types";
 
 const props = defineProps<{ blok: AppButtonStoryblok; loading: boolean }>();

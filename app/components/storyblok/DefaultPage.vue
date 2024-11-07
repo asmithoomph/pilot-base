@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { DefaultPageStoryblok } from "~/types/component-types-sb";
+import type { DefaultPageStoryblok } from "~~/types/component-types-sb";
 defineProps<{ blok: DefaultPageStoryblok }>();
 </script>
 

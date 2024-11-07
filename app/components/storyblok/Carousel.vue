@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { register } from "swiper/element/bundle";
-import type { CarouselStoryblok } from "~/types/component-types-sb";
+import type { CarouselStoryblok } from "~~/types/component-types-sb";
 
 callOnce(() => {
   register();

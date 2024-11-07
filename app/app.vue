@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { SiteConfigStoryblok } from "~/types/component-types-sb";
+import type { SiteConfigStoryblok } from "~~/types/component-types-sb";
 
 const config = useState<SiteConfigStoryblok>("sb-config");
 const isPreview = useStoryblokPreview();

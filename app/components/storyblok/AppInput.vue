@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { AppInputStoryblok } from "~/types/component-types-sb";
+import type { AppInputStoryblok } from "~~/types/component-types-sb";
 
 defineProps<{ blok: AppInputStoryblok }>();
 

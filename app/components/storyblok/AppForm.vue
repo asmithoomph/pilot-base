@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { AppFormStoryblok } from "~/types/component-types-sb";
+import type { AppFormStoryblok } from "~~/types/component-types-sb";
 import type { FormKitNode } from "@formkit/core";
 
 const props = defineProps<{ blok: AppFormStoryblok }>();

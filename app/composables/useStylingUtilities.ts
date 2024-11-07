@@ -7,7 +7,7 @@ import type {
   GridStoryblok,
   SimpleTextStoryblok,
   CarouselStoryblok,
-} from "~/types/component-types-sb";
+} from "~~/types/component-types-sb";
 
 export default function () {
   const useWidth = (

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { GlobalReferenceStoryblok } from "~/types/component-types-sb";
+import type { GlobalReferenceStoryblok } from "~~/types/component-types-sb";
 
 defineProps<{ blok: GlobalReferenceStoryblok }>();
 </script>

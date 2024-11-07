@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { SimpleTextStoryblok } from "~/types/component-types-sb";
+import type { SimpleTextStoryblok } from "~~/types/component-types-sb";
 
 const props = defineProps<{ blok: SimpleTextStoryblok }>();
 

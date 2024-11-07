@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { YoutubeEmbedStoryblok } from "~/types/component-types-sb";
+import type { YoutubeEmbedStoryblok } from "~~/types/component-types-sb";
 
 const props = defineProps<{ blok: YoutubeEmbedStoryblok }>();
 

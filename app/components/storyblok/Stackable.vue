@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import type { StackableStoryblok } from "~/types/component-types-sb";
+import type { StackableStoryblok } from "~~/types/component-types-sb";
 
 defineProps<{ blok: StackableStoryblok }>();
 

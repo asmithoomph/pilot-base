@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { ButtonRowStoryblok } from "~/types/component-types-sb";
+import type { ButtonRowStoryblok } from "~~/types/component-types-sb";
 
 const props = defineProps<{ blok: ButtonRowStoryblok; loading: boolean }>();
 

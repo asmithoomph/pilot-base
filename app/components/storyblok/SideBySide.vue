@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed } from "vue";
-import type { SideBySideStoryblok } from "~/types/component-types-sb";
+import type { SideBySideStoryblok } from "~~/types/component-types-sb";
 
 const props = defineProps<{ blok: SideBySideStoryblok }>();
 

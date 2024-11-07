@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { SpacerStoryblok } from "~/types/component-types-sb";
+import type { SpacerStoryblok } from "~~/types/component-types-sb";
 defineProps<{ blok: SpacerStoryblok }>();
 </script>
 
